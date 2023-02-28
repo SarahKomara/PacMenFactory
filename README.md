@@ -1,7 +1,7 @@
 # PacMenFactory
 PacMen Factory Game - Module 7
 
-<img src= "PacMenFactory.png" width='250'/>
+<img src= "images/PacMenFactory.png" width='250'/>
 
 Simple PacMen Game: Interactive browser window game where a user can add PacMen to screen and animate the figures, which will move within the window dimensions at random.
 
